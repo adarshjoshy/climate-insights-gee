@@ -2,9 +2,9 @@
 
 This repository contains climate data analysis and forecasting projects conducted using Google Earth Engine, with a focus on India's regional climate indicators.
 
-[![GitHub repo size](https://img.shields.io/github/repo-size/adarshjoshy/climate-insights-gee)](https://github.com/adarshjoshy/climate-insights-gee)
+[![Github repo size](https://img.shields.io/github/languages/code-size/adarshjoshy/climate-insights-gee)](https://github.com/adarshjoshy/climate-insights-gee)
 [![GitHub top language](https://img.shields.io/github/languages/top/adarshjoshy/climate-insights-gee?color=green)](https://github.com/adarshjoshy/climate-insights-gee)
-[![GitHub license](https://img.shields.io/github/license/adarshjoshy/climate-insights-gee)](https://github.com/adarshjoshy/climate-insights-gee)
+[![GitHub](https://img.shields.io/github/license/adarshjoshy/climate-insights-gee)](https://github.com/adarshjoshy/climate-insights-gee)
 
 ### Overview
 <ul>
